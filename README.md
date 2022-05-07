@@ -5,11 +5,11 @@ The task is to use what we have learnt in the past 8 weeks regarding web develop
 #### Criteria:
 
 Must have:
-- [x]A minimum of 2 HTML web pages and one external CSS file
-- [x]Consistent navbar on all pages
-- [x]Styled well
-- [x]All links working
-- [x]Basic user interaction (Ex: hover, submit form, Action on click)
+- [x] A minimum of 2 HTML web pages and one external CSS file
+- [x] Consistent navbar on all pages
+- [x] Styled well
+- [x] All links working
+- [x] Basic user interaction (Ex: hover, submit form, Action on click)
 
 Nice to have:
 - [x]Mobile responsive website
