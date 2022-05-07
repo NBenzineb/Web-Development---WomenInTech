@@ -2,7 +2,7 @@
 
 The task is to use what we have learnt in the past 8 weeks regarding web developemnt to create a website. I worked in a team to build a career advice website to aid women aiming to get into the technology industry.
 
-#### Criteria:
+### Criteria:
 
 Must have:
 - [x] A minimum of 2 HTML web pages and one external CSS file
