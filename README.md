@@ -23,6 +23,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. Clone this respository
 2. `open index.html`
 
+https://nbenzineb.github.io/WomenInTech/cfg%20website.html  
 ## Built With
 
 -HTML5
